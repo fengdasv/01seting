@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-	printf("gitflow≤‚ ‘")
+	printf("gitflow≤‚ ‘");
 	return 0;
 
 }
